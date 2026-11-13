@@ -62,6 +62,10 @@ The free version shows your **newest 50 videos** with real folders and counts, s
 - Google doesn't share how long you watched, so Backwatch counts videos, never "time spent".
 - **Windows:** coming soon.
 
+## What's new
+
+**Latest: Backwatch 0.9.206** — much faster with big libraries (opening, folders and resizing). See the full [version history](VERSION-HISTORY.md) for every change, and how to update without losing anything.
+
 ## Help
 
 Questions? **support.backwatch@gmail.com**, or in the app: Settings → About Backwatch → Contact support.

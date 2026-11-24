@@ -24,6 +24,12 @@ Thousands of videos. One endless scroll. Backwatch fixes that in about a minute:
 - **It learns:** file a channel once and its videos follow, now and in future imports
 - **Your Story:** top channels, most rewatched, your busiest hours, year by year
 - **On This Day:** what you watched on this date in past years
+- **Liked videos, Search history and Playlists,** all from the same Google file
+- **Quick sort:** clear the videos Backwatch wasn't sure about, one channel and one key at a time
+- **Move many at once:** tick videos (or all of them) and move them together, or drag a whole channel onto a folder
+- **Little lights:** green for new today, yellow for Needs review, red for no longer on YouTube
+- **Scams and Alerts:** scams, rip-offs, consumer alerts and recalls get their own folder automatically
+- **Russian in English:** an English button shows Russian titles and channels in English, translated on your Mac
 - **Favorites and notes** that jump straight to the moment ("good part at 4:12")
 - **Backups anywhere,** even a USB stick
 - **Built for big histories:** tested on 57,000+ videos
@@ -48,7 +54,7 @@ The download includes a **Start Here** page, a full **user guide** (PDF) and a *
 
 ## Private. Actually private.
 
-Your history stays on your computer. No account, no cloud, nothing uploaded. Backwatch never asks for your Google password and never contacts YouTube by itself.
+Your history stays on your computer. No account, no cloud, nothing uploaded. Backwatch never asks for your Google password and never contacts YouTube. The app only checks for updates: about once a day it asks this page whether there's a newer version, sends nothing about your library, and you can turn it off in Settings.
 
 ## Try it free, then unlock it
 
@@ -64,7 +70,7 @@ The free version shows your **newest 50 videos** with real folders and counts, s
 
 ## What's new
 
-**Latest: Backwatch 0.9.206** — much faster with big libraries (opening, folders and resizing). See the full [version history](VERSION-HISTORY.md) for every change, and how to update without losing anything.
+**Latest: Backwatch 0.9.250** — Liked videos, Search history, Playlists, Quick sort, move many videos at once, little status lights, a Scams and Alerts folder, an English button for Russian videos, a smarter sort button, Check for duplicates, Import history, and an automatic update check. See the full [version history](VERSION-HISTORY.md) for every change, and how to update without losing anything.
 
 ## Help
 

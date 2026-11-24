@@ -13,6 +13,10 @@ Every video you've watched, sorted into folders on your own Mac. Private. No acc
   <a href="https://backwatcher.gumroad.com/l/backwatch"><img src="https://img.shields.io/badge/Unlock%20everything-%2414.99%20once-2D7FF9?style=for-the-badge&labelColor=1f2430" alt="Unlock everything for $14.99 once"></a>
 </p>
 
+<p align="center"><b>See it in action</b> (1 min 54 s, example library with made-up videos)</p>
+
+https://github.com/user-attachments/assets/4b5a1e9d-cb54-4a6f-83e9-ae4204e1f40e
+
 ---
 
 ## What it does
